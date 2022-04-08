@@ -1,10 +1,32 @@
 ﻿#Homepage
 {
-    background-color:cornflowerblue;
-    text-decoration-color:white;
+    background-color:cornflowerblue;    
     text-align:center;
 }
+h1{
+    text-decoration-color:White;
+    
+}
+#aboutpage {
+    background-color: darkolivegreen;
+    text-decoration-color: white;
+    text-align: center;
+}
+#projectpage {
+    background-color: darkolivegreen;
+    text-decoration-color: white;
+    text-align: center;
+}
 
+#paragraph {
+    display: block;
+    object-position: center;
+    text-decoration-color: white;
+    background-color: white;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+}
 li a {
     display: block;
     object-position: center;
