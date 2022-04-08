@@ -17,6 +17,16 @@ h1{
     text-decoration-color: white;
     text-align: center;
 }
+#employmentpage {
+    background-color: darkolivegreen;
+    text-decoration-color: white;
+    text-align: center;
+}
+#skillsetspage {
+    background-color: darkolivegreen;
+    text-decoration-color: white;
+    text-align: center;
+}
 
 #paragraph {
     display: block;
