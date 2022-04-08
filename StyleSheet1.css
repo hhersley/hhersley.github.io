@@ -37,7 +37,7 @@ h1{
     margin: 25px;
     padding: 20px;
 }
-li a {
+#Link1{
     display: block;
     object-position: center;
     text-decoration-color: white;
@@ -45,6 +45,37 @@ li a {
     border-radius: 20px;
     margin: 25px;
     padding: 20px;
-    
+    float:left;
 }
+#Link2 {
+    display: block;
+    object-position: center;
+    text-decoration-color: white;
+    background-color: white;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+    float: left;
+}
+#Link3 {
+    display: block;
+    object-position: center;
+    text-decoration-color: white;
+    background-color: white;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+    float: left;
+}
+#Link4 {
+    display: block;
+    object-position: center;
+    text-decoration-color: white;
+    background-color: white;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+    float: left;
+}
+
 
