@@ -1,3 +1,10 @@
-﻿body
+﻿#Homepage
 {
+    background-color:cornflowerblue;
+    text-decoration-color:white;
+    text-align:center;
+}
+
+li a{
+    background-color:darkblue;
 }
