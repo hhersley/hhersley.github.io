@@ -3,6 +3,12 @@
     background-color:cornflowerblue;    
     text-align:center;
 }
+#navbar {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+}
 h1{
     text-decoration-color:White;
     
@@ -77,12 +83,7 @@ h1{
     padding: 20px;
     float: left;
 }
-#navbar {
-    background-color: blanchedalmond;
-    border-radius: 20px;
-    margin: 25px;
-    padding: 20px;
-}
+
 
 #jobs{
     text-decoration:underline;
@@ -90,3 +91,6 @@ h1{
 }
 
 
+li{
+    text-align:left;
+}
