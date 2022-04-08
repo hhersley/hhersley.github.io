@@ -84,4 +84,9 @@ h1{
     padding: 20px;
 }
 
+#jobs{
+    text-decoration:underline;
+    font-size:110%;
+}
+
 
