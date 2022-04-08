@@ -77,5 +77,11 @@ h1{
     padding: 20px;
     float: left;
 }
+#navbar {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+}
 
 
